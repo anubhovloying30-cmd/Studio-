@@ -1,0 +1,6 @@
+{
+  "name": "DHWONI (STUDIO) - Android Music Studio DAW",
+  "description": "DHWONI STUDIO (ধ্বনি) - Professional Android Music Studio & Digital Audio Workstation. Multi-track recording, MPC drum machine, virtual instruments, real-time effects, and Kotlin/NDK export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
